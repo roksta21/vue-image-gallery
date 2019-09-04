@@ -1,0 +1,24 @@
+{
+  "name": "vue-media-gallery",
+  "version": "1.0.0",
+  "description": "vue plugin that provides an image gallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roksta21/vue-image-gallery.git"
+  },
+  "keywords": [
+    "vue",
+    "image",
+    "gallery"
+  ],
+  "author": "@sam_roksta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roksta21/vue-image-gallery/issues"
+  },
+  "homepage": "https://github.com/roksta21/vue-image-gallery#readme"
+}
